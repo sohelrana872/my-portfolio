@@ -1,0 +1,16 @@
+body{
+    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(0, 171, 238);
+}
+.half-width{
+    width: 40% ;
+    float: left; 
+    margin-left: 5% ;
+    padding-left: 2% ;
+}
